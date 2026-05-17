@@ -4,6 +4,8 @@ Gasik Zuzanna, Hankus Ida
 Projekt zaliczeniowy z przedmiotu "Wizja komputerowa", lato 2026.
 Zadanie: detekcja ruchu między obrazami.
 
+Celem programu jest symulacja działania fotopułapki, która analizuje lub klatki z wideo i wykrywa obecność zwierzęcia w kadrze poprzez analizę ruchu lub zmian względem pustego tła. Aby to osiągnąć, algorytm porównuje obraz referencyjny ze zdjęciami testowymi.
+
 Źródła zdjęć:
 * czaple: Lasy Państwowe – [Transmisja z kolonii lęgowej czapli siwych i czapli białych](https://www.lasy.gov.pl/pl/informacje/transmisje-online/transmisja-z-kolonii-legowej-czapli-siwych-i-czapli-bialych), materiał wykorzystany w celach edukacyjnych. 
 * pandy: Explore.org – [Wolong Grove Panda Yard](https://explore.org/snapshots/wolong-grove-panda-yard/), wykorzystano w celach edukacyjnych
